@@ -8,7 +8,7 @@
 <hr/>
 🇰🇷 세종대학교 전자정보통신공학과 졸업 (2015~2022) <br/>
 🇰🇷 Sejong University, Electronic, Communication and Information (2015~2022) <br/>
-🇰🇷 스타트업(오키위) 백엔드 개발자 (2021.06 ~ 2022.12)
+🇰🇷 스타트업(오키위) 백엔드 개발자 (2021.06 ~ 2022.12) <br/>
 🇰🇷 VRAPoint 백엔드 개발자 (2023.08 ~ )
 
 <div align="center">
