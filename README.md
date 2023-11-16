@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/JSP-1976D2?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-25D366?style=flat"/>
+<img src="https://img.shields.io/badge/JPA-7952B3?style=flat&logo=JPA"/>
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=White"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazons3&logoColor=black"/>
