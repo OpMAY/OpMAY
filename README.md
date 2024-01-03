@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=black"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=White"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black"/>
 </div>
 <br/>
 <div align="center">
@@ -50,6 +51,8 @@
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=BootStrap&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-E3695F?style=flat&logo=CSS&logoColor=black"/>
+<img src="https://img.shields.io/badge/WEBGL-990000?style=flat&logo=WEBGL&logoColor=black"/>
+<img src="https://img.shields.io/badge/THREE.js-000000?style=flat&logo=THREE.JS&logoColor=white"/>
 </div>
 
 <div align="center">
