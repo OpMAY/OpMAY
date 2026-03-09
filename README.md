@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm OpMAY! 👋</h1>
-  <p>Backend Developer & 3D Web Enthusiast</p>
+  <h1>한지우 OpMAY</h1>
+  <p>FullStack Developer & 3D Web Enthusiast</p>
 </div>
 
 <br/>
