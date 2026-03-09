@@ -54,12 +54,3 @@
 <img src="https://img.shields.io/badge/WEBGL-990000?style=flat&logo=WEBGL&logoColor=black"/>
 <img src="https://img.shields.io/badge/THREE.js-000000?style=flat&logo=THREE.JS&logoColor=white"/>
 </div>
-
-<div align="center">
-<h3>STAT</h3>
-</div>
-<hr/>
-
-[![OpMAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpMAY&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpMAY&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
