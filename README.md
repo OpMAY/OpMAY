@@ -15,7 +15,6 @@
   <li>💼 <b>VRAPoint 백엔드 개발자</b> (2023.08 ~ 현재)</li>
 </ul>
 
-
 <br/>
 
 <div align="center">
@@ -34,9 +33,21 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-25D366?style=flat"/>
   <img src="https://img.shields.io/badge/JPA-7952B3?style=flat&logo=JPA&logoColor=white"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DATABASE-4479A1?style=for-the-badge&logoColor=white"/>
+</div>
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 </div>
 
 <br/>
@@ -75,11 +86,14 @@
 </div>
 <div align="center">
   <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat&logo=Amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat&logo=Amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS CloudFront-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS Lightsail-232F3E?style=flat&logo=amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
